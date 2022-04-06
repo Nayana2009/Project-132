@@ -1,0 +1,25 @@
+.header{
+    color: black;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px rgb(68, 64, 64);
+}
+.header:hover{
+    width: 350px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+
+a {
+   
+    background: white;
+    border-radius: 10px;
+    width: 200px;
+    margin-top: 15px;
+}
+.btn:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
